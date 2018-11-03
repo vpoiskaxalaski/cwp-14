@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "cwp-12",
+    "password": "cwp-12",
+    "database": "features",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "test": {
+    "username": "cwp-12",
+    "password": "cwp-12",
+    "database": "features",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  },
+  "production": {
+    "username": "cwp-12",
+    "password": "cwp-12",
+    "database": "features",
+    "host": "127.0.0.1",
+    "dialect": "mssql"
+  }
+}
